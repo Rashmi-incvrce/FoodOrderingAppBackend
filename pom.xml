@@ -53,9 +53,10 @@
     </parent>
 
     <modules>
-        <module>FoodOrderingApp-api</module>
+
         <module>FoodOrderingApp-db</module>
         <module>FoodOrderingApp-service</module>
+        <module>FoodOrderingApp-api</module>
     </modules>
 
 
